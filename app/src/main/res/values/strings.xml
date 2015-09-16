@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">AnnaVK</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_friends">Друзья</string>
+    <string name="title_activity_messages">MessagesActivity</string>
+    <string name="title_activity_last_messages">LastMessagesActivity</string>
+    <string name="title_activity_photo_view">PhotoViewActivity</string>
+    <string name="title_activity_download_image">DownloadImageActivity</string>
+</resources>
